@@ -10,19 +10,19 @@
   <a title="google" target="_blank" href="https://scholar.google.com/citations?user=RWWijlcAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white"/>
   </a>&emsp;
-  <a title="github" target="_blank" href="https://github.com/NaClCode"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DNaClCode&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>&emsp;
+  <a title="github" target="_blank" href="https://github.com/jc-gong"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DNaClCode&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>&emsp;
    <a title="researchgate" target="_blank" href="https://www.researchgate.net/profile/Jincheng-Gong-3">
   <img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white"/>
 </a>&emsp;
   <!-- visitor -->
-  <img src="https://komarev.com/ghpvc/?username=NaClCode&label=Views&color=orange&style=flat" alt="访问量统计" />
+  <img src="https://komarev.com/ghpvc/?username=jc-gong&label=Views&color=orange&style=flat" alt="访问量统计" />
 </div>
 
 </div>
 
 
 <div align="center">
-  <h3 style="margin: 0;">Prospective Graduate Student, School of Mechanical and Electrical Engineering, UESCT</h3>
+  <h3 style="margin: 0;">Graduate Student, School of Mechanical and Electrical Engineering, UESCT</h3>
 </div>
 
 
